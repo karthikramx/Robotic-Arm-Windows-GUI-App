@@ -1,4 +1,7 @@
 # Robotic-Arm-Windows-GUI-App
-This is a tool developed to control desktop robotic arms on Visual Studio using C#
+Windows WPF application developed on Visual Studio to control Desktop Robotic Arms
+
+#### Instructions
+Clone the repository and run RoboticArmStudio_V_3.0.exe under the release folder.
 
 https://www.youtube.com/watch?v=AbROgv36-y0
